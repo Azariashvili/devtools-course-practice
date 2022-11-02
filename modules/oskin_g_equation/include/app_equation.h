@@ -1,4 +1,4 @@
-// Copyright 2022 Cheremushkin Kirill
+// Copyright 2022 Azariashvili Shalva
 #pragma once
 #ifndef MODULES_OSKIN_G_EQUATION_INCLUDE_APP_EQUATION_H_
 #define MODULES_OSKIN_G_EQUATION_INCLUDE_APP_EQUATION_H_

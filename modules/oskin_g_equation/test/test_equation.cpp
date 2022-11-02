@@ -1,4 +1,4 @@
-// Copyright 2022 Oskin Georgii & Cheremushkin Kirill
+// Copyright 2022 Azariashvili Shalva
 #include <gtest/gtest.h>
 
 #include "include/equation.h"

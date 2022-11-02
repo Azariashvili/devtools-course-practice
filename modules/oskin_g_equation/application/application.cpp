@@ -1,4 +1,4 @@
-// Copyright 2022 Cheremushkin Kirill
+// Copyright 2022 Azariashvili Shalva
 
 #include <stdlib.h>
 #include <stdio.h>

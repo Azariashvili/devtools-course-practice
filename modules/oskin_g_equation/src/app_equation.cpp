@@ -1,4 +1,4 @@
-// Copyright 2022 Cheremushkin Kirill
+// Copyright 2022 Azariashvili Shalva
 #include <sstream>
 #include <iterator>
 #include <iostream>
